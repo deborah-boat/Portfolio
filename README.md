@@ -1,3 +1,3 @@
 # Portfolio
 
-Hobby project mainly focused on front-end :  https://github.com/deborah-boat/Portfolio/
+Hobby project mainly focused on front-end :  https://deborah-boat.github.io/Portfolio/
